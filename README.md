@@ -2,7 +2,7 @@
 
 ### Lab topology
 <div>
-  <img width="869" height="633" alt="image" src="https://github.com/user-attachments/assets/7720e8db-c3e2-4c48-9acd-048c2c1d9c24" />
+  <img width="902" height="598" alt="image" src="https://github.com/user-attachments/assets/7e79b856-61c4-4690-921e-cf644898aedf" />
 </div>
 
 ### Phone configuration
