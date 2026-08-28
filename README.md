@@ -10,9 +10,14 @@
   <img width="625" height="295" alt="image" src="https://github.com/user-attachments/assets/6c9db452-a740-499a-86c4-7c5c2192a8ca" />
 </div>
 
-### Create voice and data vlans
+### Assigning ports to VLANS
 <div>
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/5ecd34d5-300c-472b-afdb-0f9874e119ea" />
+  <img width="586" height="285" alt="image" src="https://github.com/user-attachments/assets/3c544cd8-54b2-43b6-834b-bda078a28198" />
+</div>
+
+### Assigning ports to VLANS
+<div>
+  <img width="586" height="285" alt="image" src="https://github.com/user-attachments/assets/3c544cd8-54b2-43b6-834b-bda078a28198" />
 </div>
 
 ### Result
