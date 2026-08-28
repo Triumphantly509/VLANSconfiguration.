@@ -5,9 +5,9 @@
   <img width="902" height="598" alt="image" src="https://github.com/user-attachments/assets/7e79b856-61c4-4690-921e-cf644898aedf" />
 </div>
 
-### Phone configuration
+### Show vlan brief Results on switch0
 <div>
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/10018dd4-cf2d-43cf-b46a-d8e53dbdf3e0" />
+  <img width="625" height="295" alt="image" src="https://github.com/user-attachments/assets/6c9db452-a740-499a-86c4-7c5c2192a8ca" />
 </div>
 
 ### Create voice and data vlans
