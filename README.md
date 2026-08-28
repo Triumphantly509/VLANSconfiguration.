@@ -10,12 +10,7 @@
   <img width="625" height="295" alt="image" src="https://github.com/user-attachments/assets/6c9db452-a740-499a-86c4-7c5c2192a8ca" />
 </div>
 
-### Assigning ports to VLANS step 1
-<div>
-  <img width="586" height="285" alt="image" src="https://github.com/user-attachments/assets/3c544cd8-54b2-43b6-834b-bda078a28198" />
-</div>
-
-### Assigning ports to VLANS step 2
+### Assigning ports to VLANS
 <div>
   <img width="644" height="279" alt="image" src="https://github.com/user-attachments/assets/f4da8e07-93a1-43e7-b454-a3622391b678" />
 </div>
