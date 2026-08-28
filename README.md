@@ -1,4 +1,4 @@
-# VOIP-vlan-configuration
+# Configuring data, voice, management, native and blackhole VLANS.
 
 ### Lab topology
 <div>
