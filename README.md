@@ -65,4 +65,13 @@
   <img width="1703" height="655" alt="image" src="https://github.com/user-attachments/assets/57ebb9d2-9ba3-46e0-9f66-2e7516be2c5e" />
 </div>
 
+### Displaying the config on fa0/1 Multilayer switch
+<div>
+  <img width="724" height="363" alt="image" src="https://github.com/user-attachments/assets/456a8404-7959-436e-87fb-319b4af8016a" />
+</div>
+
+<div>
+  <img width="851" height="196" alt="image" src="https://github.com/user-attachments/assets/b11862eb-79cf-41ce-87a2-6a9a5c10987d" />
+</div>
+
 
