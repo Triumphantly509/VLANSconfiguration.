@@ -24,19 +24,10 @@
   <img width="671" height="237" alt="image" src="https://github.com/user-attachments/assets/aafcefa8-0e12-4319-86e0-96f7629a172c" />
 </div>
 
-### Result
-<div>
-  <img width="702" height="278" alt="image" src="https://github.com/user-attachments/assets/309e373e-be0e-4a82-9261-cbf9832ee920" />
-</div>
+### Configuring Black Hole vlan, unused vlan/ports on switch 0
 
-### voice and data vlan ports assignement
 <div>
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/68eb75dd-3795-414c-b49c-dbc3c51b9df5" />
-</div>
-
-### Result
-<div>
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/844ed90b-627c-4e0d-b917-ec93632fbb66" />
+  <img width="671" height="237" alt="image" src="https://github.com/user-attachments/assets/aafcefa8-0e12-4319-86e0-96f7629a172c" />
 </div>
 
 
