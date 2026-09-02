@@ -27,7 +27,7 @@
 ### Configuring Black Hole vlan, unused vlan/ports on switch 0
 
 <div>
-  <img width="1016" height="795" alt="image" src="https://github.com/user-attachments/assets/9600cb90-cd2c-4df6-b107-4c984d321c2f" />
+  <img width="1016" height="795" alt="image" src="https://github.com/user-attachments/assets/b06670b4-b154-4dca-b14f-0b9cdba0e2ef" />
 </div>
 
 
