@@ -7,6 +7,9 @@
 
 ### VLANS creation on switch0 & Show vlan brief Results
 <div>
+  <img width="629" height="238" alt="image" src="https://github.com/user-attachments/assets/31cae29d-fe20-4728-8848-b91af59579e1" />
+</div>
+<div>
   <img width="625" height="295" alt="image" src="https://github.com/user-attachments/assets/6c9db452-a740-499a-86c4-7c5c2192a8ca" />
 </div>
 
