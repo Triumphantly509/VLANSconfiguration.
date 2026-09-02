@@ -15,12 +15,12 @@
 
 ### Assigning ports to VLANS
 <div>
-  <img width="644" height="279" alt="image" src="https://github.com/user-attachments/assets/f4da8e07-93a1-43e7-b454-a3622391b678" />
+  <img width="583" height="348" alt="image" src="https://github.com/user-attachments/assets/00a6271f-fa91-4d2a-9ff6-546258f0ff3b" />
 </div>
 
 ### Result
 <div>
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/8efb4cea-6d7f-4aec-9b91-88b2c2e2d76a" />
+  <img width="702" height="278" alt="image" src="https://github.com/user-attachments/assets/309e373e-be0e-4a82-9261-cbf9832ee920" />
 </div>
 
 ### voice and data vlan ports assignement
