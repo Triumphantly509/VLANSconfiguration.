@@ -24,10 +24,23 @@
   <img width="671" height="237" alt="image" src="https://github.com/user-attachments/assets/aafcefa8-0e12-4319-86e0-96f7629a172c" />
 </div>
 
+### Vlans allowed on the trunk port fa0/5 on switch 0
+
+<div>
+  <img width="508" height="150" alt="image" src="https://github.com/user-attachments/assets/ecd2b4fa-e26e-4326-9277-fa49906b43b3" />
+</div>
+
+
 ### Configuring Black Hole vlan, unused vlan/ports on switch 0
 
 <div>
   <img width="1016" height="795" alt="image" src="https://github.com/user-attachments/assets/b06670b4-b154-4dca-b14f-0b9cdba0e2ef" />
+</div>
+
+### Results on switch 0
+
+<div>
+  
 </div>
 
 
