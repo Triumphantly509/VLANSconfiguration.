@@ -2,7 +2,7 @@
 
 ### Lab topology
 <div>
-  <img width="879" height="582" alt="image" src="https://github.com/user-attachments/assets/edebbcf2-e4a9-4fd4-ab18-4c2889f37872" />
+  <img width="1040" height="640" alt="image" src="https://github.com/user-attachments/assets/bf052639-7123-40ca-a4a6-858f2a86901c" />
 </div>
 
 ### VLANS creation on switch0 & Show vlan brief Results
