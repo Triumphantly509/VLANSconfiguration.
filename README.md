@@ -70,6 +70,8 @@
   <img width="724" height="363" alt="image" src="https://github.com/user-attachments/assets/456a8404-7959-436e-87fb-319b4af8016a" />
 </div>
 
+### Allowing the native vlan and the ones previously created on switch0
+
 <div>
   <img width="851" height="196" alt="image" src="https://github.com/user-attachments/assets/b11862eb-79cf-41ce-87a2-6a9a5c10987d" />
 </div>
