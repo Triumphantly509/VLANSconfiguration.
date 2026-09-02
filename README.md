@@ -39,9 +39,19 @@
 
 ### Results on switch 0
 
+### Show Vlan brief result
 <div>
-  
+  <img width="689" height="278" alt="image" src="https://github.com/user-attachments/assets/981cf46c-4508-4c09-a2c8-a0273f78cc52" />
 </div>
 
+### Show interface trunk result
+<div>
+  <img width="583" height="193" alt="image" src="https://github.com/user-attachments/assets/334c6599-cff6-474f-b60b-ec6ef58eaad7" />
+</div>
+
+### Show interface status result
+<div>
+  <img width="769" height="417" alt="image" src="https://github.com/user-attachments/assets/f02136a5-ba58-4bae-a29a-ab2d50da8f45" />
+</div>
 
 
