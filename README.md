@@ -54,7 +54,7 @@
   <img width="769" height="417" alt="image" src="https://github.com/user-attachments/assets/f02136a5-ba58-4bae-a29a-ab2d50da8f45" />
 </div>
 
-### PC2 successfully pings PC1
+### PC2 can successfully ping PC1 and vice versa.
 
 <div>
   <img width="1641" height="702" alt="image" src="https://github.com/user-attachments/assets/fbf80536-8a13-45da-8ffe-0ebb73d376e0" />
